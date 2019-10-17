@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1571242978 source:c:\users\nico\desktop\practica2019\isea nicolas\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1571242549 c:\users\nico\desktop\practica2019\isea nicolas\clientes.h
+
+1571244502 source:c:\users\nico\desktop\practica2019\isea nicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1571247723 source:c:\users\nico\desktop\publicidad\isea nicolas\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1571329847 c:\users\nico\desktop\publicidad\isea nicolas\clientes.h
+	"pedido.h"
+
+1571332532 c:\users\nico\desktop\publicidad\isea nicolas\pedido.h
+
+1571331796 source:c:\users\nico\desktop\publicidad\isea nicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1571332499 source:c:\users\nico\desktop\publicidad\isea nicolas\pedido.c
+	"pedido.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571350326 source:c:\users\alumno\desktop\isea nicolas\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1571349596 c:\users\alumno\desktop\isea nicolas\clientes.h
+	"pedido.h"
+
+1571351960 c:\users\alumno\desktop\isea nicolas\pedido.h
+
+1571351375 source:c:\users\alumno\desktop\isea nicolas\pedido.c
+	"pedido.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571351975 source:c:\users\alumno\desktop\isea nicolas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1571351763 source:c:\users\alumno\desktop\isea nicolas\informes.c
+	"clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

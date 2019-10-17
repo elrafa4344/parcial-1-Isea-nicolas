@@ -1,0 +1,30 @@
+Clientes:
+
+ID:1 - Telefonica - 30-11223344-5 - CABA - Lima 1234
+ID:2 - DATASOFT - 30-44556677-6 - CABA - Corrientes 2547
+ID:3 - NESTLE - 30-88995521-9 - LANUS - cucha cucha 555
+ID:4 - TERRABUSI - 30-56781423-5 - QUILMES - rocha 784
+ID:5 - DIA - 31-54581253-3 - AVELLANEDA - Mitre 750
+ID:6 - QUILMES - 30-51485759-6 - QUILMES - rocha 741
+
+Pedidos:
+
+ID:1 - ID_C:1 - k_tot: 1000 - k_p1:200 - k_p2:145 - k_p3: 230 - estado:Completado
+ID:2 - ID_C:1 - k_tot: 800 - k_p1:210 - k_p2:45 - k_p3: 30 - estado:Completado
+ID:3 - ID_C:2 - k_tot: 100 - estado:Pendiente
+ID:4 - ID_C:2 - k_tot: 300 - estado:Pendiente
+ID:5 - ID_C:3 - k_tot: 1500  - k_p1:500 - k_p2:150 - k_p3: 270 - estado:Completado
+ID:6 - ID_C:4 - k_tot: 750  - k_p1:100 - k_p2:50 - k_p3: 70 - estado:Completado
+ID:7 - ID_C:1 - k_tot: 200 - estado:Pendiente
+ID:8 - ID_C:5 - k_tot: 30 - k_p1:10 - k_p2:5 - k_p3: 3 - estado:Completado
+ID:9 - ID_C:6 - k_tot: 456 - estado:Pendiente
+
+
+
+
+
+
+
+
+
+ 
